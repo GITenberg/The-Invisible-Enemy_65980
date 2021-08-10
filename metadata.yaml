@@ -1,11 +1,16 @@
 _repo: The-Invisible-Enemy_65980
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65980-h/images/cover.jpg
 creator:
   author:
     agent_name: Castle, Arnold
     gutenberg_agent_id: '26853'
     url: http://www.gutenberg.org/2009/agents/26853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65980#The-Invisible-Enemy
 gutenberg_issued: '2021-08-02'
 gutenberg_type: Text
 identifiers:
